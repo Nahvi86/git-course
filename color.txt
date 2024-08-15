@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 red
 blue
 yellow
 green
+=======
+>>>>>>> parent of 909c65d (add red and blue)
